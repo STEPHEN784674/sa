@@ -23,7 +23,26 @@ target_chats = [
     '@CloudAccHub',
    '@cloudstoree_01',
    '@CloudSellingMarket',
-   'https://t.me/+HEZ3E7LbDL9hODk0'
+  'https://t.me/+HEZ3E7LbDL9hODk0',
+'https://t.me/Buysaleclouds', 
+'https://t.me/EscrowHooker',
+'https://t.me/BuySellCloudAzure',
+'https://t.me/CloudAccounts82',
+'https://t.me/MImrancloud',
+'https://t.me/KINGSALES_OTC_1',
+'https://t.me/Openportcloud25',
+'https://t.me/CarterCloudSelling',
+'https://t.me/CarterCloudSelling',
+'https://t.me/buyandsell_vpstrade',
+'https://t.me/zainclouds86',
+'https://t.me/TrustedCloudSell',
+'https://t.me/rdpresell',
+'https://t.me/sellportal',
+'https://t.me/wahidikhan90',
+'https://t.me/VpsTraderHaub',
+'https://t.me/CloudAccounts82',
+'https://t.me/shadowworld07',
+'https://t.me/+HEZ3E7LbDL9hODk0'
 ]
 
 interval = 100  # 1 hour
